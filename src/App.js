@@ -10,7 +10,7 @@ export default function App() {
   //return "App";
 
   return (
-    <main className="teext-gray-400 bg-gray-900 body-font">
+    <main className="text-gray-400 bg-gray-900 body-font">
 
       <Navbar />
       <About />
